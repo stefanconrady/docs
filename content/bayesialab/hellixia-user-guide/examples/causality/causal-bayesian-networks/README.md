@@ -1,0 +1,3 @@
+# Causal Bayesian Networks
+
+Welcome to our Causal Bayesian Networks section, where we leverage Hellixia as a Subject Matter Assistant for constructing Causal Bayesian Networks. These networks feature directional arcs that convey causality. In contrast to Causal Semantic Networks, which primarily offer qualitative insights by highlighting semantic causal relationships between variables, Causal Bayesian Networks offer a dual approach, encompassing both qualitative and quantitative aspects. They serve not only to improve our understanding of a domain, but also to enable probabilistic and causal inference.
