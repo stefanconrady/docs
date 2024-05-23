@@ -22,25 +22,25 @@ The following illustrations are based on a real-world knowledge elicitation proc
 
 #### Conceptual Overview of Workflow
 
-<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Upstream-Downstream_lebwep.svg" alt="" width="563"><figcaption></figcaption></figure>
+![](https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Upstream-Downstream_lebwep.svg){width="563"}
 
 #### Step 1: Qualitative Knowledge Modeling in Brainstorming Session
 
-<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Brainstorm_vvid5i.svg" alt="" width="563"><figcaption></figcaption></figure>
+![](https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Brainstorm_vvid5i.svg){width="563"}
 
 #### Step 2: Quantitative Knowledge Elicitation
 
-<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Quantitative-Elicitation_sr6byi.svg" alt="" width="563"><figcaption></figcaption></figure>
+![](https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Quantitative-Elicitation_sr6byi.svg){width="563"}
 
-#### Step 3: Deployment <a href="#h3_1184702896" id="h3_1184702896"></a>
+#### Step 3: Deployment [](#h3_1184702896)
 
-<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Deployment_bxou9n.svg" alt="" width="563"><figcaption></figcaption></figure>
+![](https://res.cloudinary.com/dvr3obmlj/image/upload/v1707943667/BEKEE-Deployment_bxou9n.svg){width="563"}
 
 ### Examples
 
-* [Differential Diagnosis of COVID-19](../bayesialab/webinars-seminars-tutorials-examples-and-case-studies/webinar-differential-diagnosis-of-covid-19.md): This webinar introduces our collaborative knowledge elicitation project using BEKEE for the differential diagnosis of COVID-19 and influenza-like diseases.&#x20;
-* [Knowledge Elicitation & Geopolitical Reasoning Under Extreme Uncertainty with Bayesian Networks](../bayesialab/webinars-seminars-tutorials-examples-and-case-studies/seminar-knowledge-elicitation-and-geopolitical-reasoning-under-extreme-uncertainty.md): In this workshop, we demonstrate how to elicit human knowledge for developing a high-dimensional computational model of an underlying problem domain in the form of a Bayesian network. This type of "Artificial Intelligence" allows us to reason formally—and quantitatively, despite the absence of numerical data—about the given issue.
+- [Differential Diagnosis of COVID-19](../bayesialab/webinars-seminars-tutorials-examples-and-case-studies/webinar-differential-diagnosis-of-covid-19): This webinar introduces our collaborative knowledge elicitation project using BEKEE for the differential diagnosis of COVID-19 and influenza-like diseases.
+- [Knowledge Elicitation & Geopolitical Reasoning Under Extreme Uncertainty with Bayesian Networks](../bayesialab/webinars-seminars-tutorials-examples-and-case-studies/seminar-knowledge-elicitation-and-geopolitical-reasoning-under-extreme-uncertainty): In this workshop, we demonstrate how to elicit human knowledge for developing a high-dimensional computational model of an underlying problem domain in the form of a Bayesian network. This type of "Artificial Intelligence" allows us to reason formally—and quantitatively, despite the absence of numerical data—about the given issue.
 
 ### Pricing
 
-* For details on licensing fees, please see the BEKEE Price Guide.
+- For details on licensing fees, please see the BEKEE Price Guide.
